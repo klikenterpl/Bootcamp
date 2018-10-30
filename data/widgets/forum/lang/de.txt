@@ -1,0 +1,1 @@
+ widgets.forum.smallhelp = Zeigt Forum

@@ -1,0 +1,2 @@
+widgets.forum.smallhelp = Foro de muestra
+ 
